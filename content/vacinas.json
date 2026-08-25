@@ -1,29 +1,8 @@
 {
-  "hero_titulo": "Vacinas do SUS",
-  "hero_titulo_destaque": "sem decoreba",
   "hero_lead": "O calendário vacinal completo organizado por lógica clínica, e não por tabela decorada. Dezesseis módulos que explicam o porquê de cada esquema, os erros mais comuns na sala de vacina e as pegadinhas que mais aparecem em prova.",
-  "hero_cta_principal": "Garantir meu acesso",
+  "oferta_preco": "R$ 47,00",
+  "hero_titulo_destaque": "sem decoreba",
   "hero_cta_secundario": "Ver o conteúdo",
-  "oferta_preco": "R$ 47",
-  "oferta_condicao": "Pagamento único. Acesso vitalício ao material e às atualizações.",
-  "modulos": [
-    "BCG e a proteção contra formas graves de tuberculose",
-    "Hepatite B e a dose nas primeiras horas de vida",
-    "Pentavalente e os componentes que a compõem",
-    "VIP e VOP: quando cada uma entra no esquema",
-    "Pneumocócica 10 valente e o reforço aos doze meses",
-    "Rotavírus e a janela rígida de aplicação",
-    "Meningocócica C e o esquema em três tempos",
-    "Febre amarela e as áreas de recomendação",
-    "Tríplice viral e a idade mínima de aplicação",
-    "Tetraviral e a diferença em relação à tríplice",
-    "Hepatite A e a dose única na rede pública",
-    "DTP, dT e dTpa: a confusão mais comum do calendário",
-    "HPV e a ampliação das indicações",
-    "Influenza e os grupos prioritários da campanha",
-    "Covid-19 e o esquema vigente no calendário",
-    "CRIE: quando o paciente sai do calendário padrão"
-  ],
   "faq": [
     {
       "pergunta": "Como recebo o material depois da compra?",
@@ -53,5 +32,26 @@
       "pergunta": "A compra é segura?",
       "resposta": "Sim. Todo o processamento é feito pela Kiwify, plataforma brasileira especializada em produtos digitais, com ambiente criptografado e conformidade com os padrões de segurança de pagamento. Os dados do cartão não passam por esta página."
     }
-  ]
+  ],
+  "oferta_condicao": "Pagamento único. Acesso vitalício ao material e às atualizações.",
+  "hero_cta_principal": "Garantir meu acesso",
+  "modulos": [
+    "BCG e a proteção contra formas graves de tuberculose",
+    "Hepatite B e a dose nas primeiras horas de vida",
+    "Pentavalente e os componentes que a compõem",
+    "VIP e VOP: quando cada uma entra no esquema",
+    "Pneumocócica 10 valente e o reforço aos doze meses",
+    "Rotavírus e a janela rígida de aplicação",
+    "Meningocócica C e o esquema em três tempos",
+    "Febre amarela e as áreas de recomendação",
+    "Tríplice viral e a idade mínima de aplicação",
+    "Tetraviral e a diferença em relação à tríplice",
+    "Hepatite A e a dose única na rede pública",
+    "DTP, dT e dTpa: a confusão mais comum do calendário",
+    "HPV e a ampliação das indicações",
+    "Influenza e os grupos prioritários da campanha",
+    "Covid-19 e o esquema vigente no calendário",
+    "CRIE: quando o paciente sai do calendário padrão"
+  ],
+  "hero_titulo": "Vacinas do SUS"
 }
