@@ -5,5 +5,53 @@
   "hero_cta_principal": "Garantir meu acesso",
   "hero_cta_secundario": "Ver o conteúdo",
   "oferta_preco": "R$ 47",
-  "oferta_condicao": "Pagamento único. Acesso vitalício ao material e às atualizações."
+  "oferta_condicao": "Pagamento único. Acesso vitalício ao material e às atualizações.",
+  "modulos": [
+    "BCG e a proteção contra formas graves de tuberculose",
+    "Hepatite B e a dose nas primeiras horas de vida",
+    "Pentavalente e os componentes que a compõem",
+    "VIP e VOP: quando cada uma entra no esquema",
+    "Pneumocócica 10 valente e o reforço aos doze meses",
+    "Rotavírus e a janela rígida de aplicação",
+    "Meningocócica C e o esquema em três tempos",
+    "Febre amarela e as áreas de recomendação",
+    "Tríplice viral e a idade mínima de aplicação",
+    "Tetraviral e a diferença em relação à tríplice",
+    "Hepatite A e a dose única na rede pública",
+    "DTP, dT e dTpa: a confusão mais comum do calendário",
+    "HPV e a ampliação das indicações",
+    "Influenza e os grupos prioritários da campanha",
+    "Covid-19 e o esquema vigente no calendário",
+    "CRIE: quando o paciente sai do calendário padrão"
+  ],
+  "faq": [
+    {
+      "pergunta": "Como recebo o material depois da compra?",
+      "resposta": "O acesso é liberado automaticamente assim que o pagamento é confirmado. Você recebe um e-mail com login e senha da área de membros, onde o material fica disponível para leitura e download. Em pagamentos por Pix e cartão, a liberação costuma ser imediata. No boleto, ocorre após a compensação bancária."
+    },
+    {
+      "pergunta": "Por quanto tempo tenho acesso?",
+      "resposta": "O acesso é vitalício. O material permanece disponível na sua área de membros sem prazo de expiração, incluindo as atualizações futuras do calendário vacinal, que são liberadas sem custo adicional."
+    },
+    {
+      "pergunta": "Este material serve para qual profissão?",
+      "resposta": "O conteúdo foi escrito para profissionais e estudantes da área da saúde que lidam com imunização, incluindo farmacêuticos, enfermeiros, técnicos de enfermagem e médicos. Também é usado por quem está em preparação para concursos e residências com cobrança de saúde coletiva."
+    },
+    {
+      "pergunta": "O conteúdo está atualizado?",
+      "resposta": "Sim. O material segue o calendário vacinal vigente do Programa Nacional de Imunizações. Sempre que houver alteração oficial, a versão atualizada é disponibilizada na área de membros e você é avisado por e-mail."
+    },
+    {
+      "pergunta": "Posso ler pelo celular?",
+      "resposta": "Sim. A área de membros funciona em celular, tablet e computador. O arquivo em PDF também pode ser baixado para leitura sem conexão com a internet."
+    },
+    {
+      "pergunta": "E se eu não gostar do material?",
+      "resposta": "Você tem sete dias para solicitar a devolução integral do valor pago. Basta enviar uma mensagem para o contato informado no rodapé, sem necessidade de justificativa. O reembolso é processado pela própria plataforma de pagamento."
+    },
+    {
+      "pergunta": "A compra é segura?",
+      "resposta": "Sim. Todo o processamento é feito pela Kiwify, plataforma brasileira especializada em produtos digitais, com ambiente criptografado e conformidade com os padrões de segurança de pagamento. Os dados do cartão não passam por esta página."
+    }
+  ]
 }
