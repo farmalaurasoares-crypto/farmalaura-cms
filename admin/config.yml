@@ -1,0 +1,46 @@
+backend:
+  name: github
+  repo: farmalaurasoares-crypto/farmalaura-cms
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+media_folder: "content/uploads"
+public_folder: "/uploads"
+
+locale: "pt"
+
+collections:
+  - name: "home"
+    label: "Pagina Inicial"
+    files:
+      - file: "content/home.json"
+        label: "Conteudo da Home"
+        name: "home"
+        fields:
+          - {label: "Texto pequeno acima do titulo", name: "hero_eyebrow", widget: "string"}
+          - {label: "Titulo principal", name: "hero_title", widget: "string"}
+          - {label: "Subtitulo em italico", name: "hero_subtitle", widget: "string"}
+          - {label: "Paragrafo de abertura", name: "hero_paragraph", widget: "text"}
+          - {label: "Texto do botao principal", name: "hero_button", widget: "string"}
+          - {label: "Titulo do ebook no card", name: "produto1_titulo", widget: "string"}
+          - {label: "Descricao do ebook no card", name: "produto1_descricao", widget: "text"}
+          - {label: "Preco do ebook", name: "produto1_preco", widget: "string"}
+          - {label: "Titulo do bloco de novidades", name: "newsletter_titulo", widget: "string"}
+          - {label: "Descricao do bloco de novidades", name: "newsletter_descricao", widget: "text"}
+          - {label: "Texto do botao de novidades", name: "newsletter_botao", widget: "string"}
+          - {label: "Frase do rodape", name: "footer_tagline", widget: "text"}
+  - name: "vacinas"
+    label: "Pagina do E-book Vacinas"
+    files:
+      - file: "content/vacinas.json"
+        label: "Conteudo da pagina Vacinas"
+        name: "vacinas"
+        fields:
+          - {label: "Titulo principal", name: "hero_titulo", widget: "string"}
+          - {label: "Titulo em destaque (italico)", name: "hero_titulo_destaque", widget: "string"}
+          - {label: "Paragrafo de abertura", name: "hero_lead", widget: "text"}
+          - {label: "Botao principal", name: "hero_cta_principal", widget: "string"}
+          - {label: "Botao secundario", name: "hero_cta_secundario", widget: "string"}
+          - {label: "Preco", name: "oferta_preco", widget: "string"}
+          - {label: "Condicao de pagamento", name: "oferta_condicao", widget: "string"}
