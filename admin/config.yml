@@ -44,3 +44,8 @@ collections:
           - {label: "Botao secundario", name: "hero_cta_secundario", widget: "string"}
           - {label: "Preco", name: "oferta_preco", widget: "string"}
           - {label: "Condicao de pagamento", name: "oferta_condicao", widget: "string"}
+          - {label: "Modulos (lista dos 16 titulos, na ordem de 1 a 16 - nao adicione nem remova itens, so edite o texto)", name: "modulos", widget: "list", allow_add: false}
+          - {label: "Perguntas frequentes (FAQ)", name: "faq", widget: "list", fields: [
+              {label: "Pergunta", name: "pergunta", widget: "string"},
+              {label: "Resposta", name: "resposta", widget: "text"}
+            ]}
