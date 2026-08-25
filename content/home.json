@@ -1,14 +1,14 @@
 {
-  "hero_eyebrow": "Materiais e cursos para profissionais de saúde",
-  "hero_title": "Ciência que cuida.",
-  "hero_subtitle": "Estética que educa.",
-  "hero_paragraph": "Conteúdo técnico traduzido para quem trabalha na prática. Cada material foi construído para ser aplicado no mesmo dia em que é estudado, sem teoria inflada e sem promessa de atalho.",
-  "hero_button": "Ver todos os materiais",
   "produto1_titulo": "Calendário vacinal por lógica",
   "produto1_descricao": "Dezesseis módulos da BCG ao CRIE, com macete, pegadinha e erro comum na prática para cada vacina do calendário nacional.",
-  "produto1_preco": "R$ 47",
-  "newsletter_titulo": "Receba avisos de novos materiais",
   "newsletter_descricao": "Sem spam. Só um e-mail quando sair novidade de verdade.",
+  "hero_eyebrow": "Materiais e cursos para profissionais de saúde",
+  "produto1_preco": "R$ 47",
+  "hero_paragraph": "Conteúdo técnico traduzido para quem trabalha na prática. Cada material foi construído para ser aplicado no mesmo dia em que é estudado, sem teoria inflada e sem promessa de atalho.",
+  "footer_tagline": "Ciência que cuida. Estética que educa. Conteúdo técnico traduzido para a prática de quem trabalha com saúde.",
   "newsletter_botao": "Quero receber",
-  "footer_tagline": "Ciência que cuida. Estética que educa. Conteúdo técnico traduzido para a prática de quem trabalha com saúde."
+  "hero_title": "Ciência que cuida (teste painel)",
+  "hero_button": "Ver todos os materiais",
+  "hero_subtitle": "Estética que educa.",
+  "newsletter_titulo": "Receba avisos de novos materiais"
 }
